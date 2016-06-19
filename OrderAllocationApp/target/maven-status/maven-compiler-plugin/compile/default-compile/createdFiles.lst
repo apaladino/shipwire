@@ -1,0 +1,4 @@
+com\shipwire\model\Line.class
+com\shipwire\OrderAllocator.class
+com\shipwire\model\Order.class
+com\shipwire\data\OrderDao.class
